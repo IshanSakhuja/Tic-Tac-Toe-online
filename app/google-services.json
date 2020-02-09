@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "399499437495",
+    "firebase_url": "https://gametictactoe-c73d0.firebaseio.com",
+    "project_id": "gametictactoe-c73d0",
+    "storage_bucket": "gametictactoe-c73d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399499437495:android:deb66562d761e7831a3432",
+        "android_client_info": {
+          "package_name": "com.ishan.gametictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399499437495-ubnnq58u3aepq184vpbr14jlf8kqnfuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ishan.gametictactoe",
+            "certificate_hash": "654a2c9a17a5935e63f3fef2a0a9782b0945d652"
+          }
+        },
+        {
+          "client_id": "399499437495-umdrrbifbt7qh0pc6dd9gt4orbcju5rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdr6pU9W8XMv8YTfFs89IPkVh9BgGhRwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399499437495-umdrrbifbt7qh0pc6dd9gt4orbcju5rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
